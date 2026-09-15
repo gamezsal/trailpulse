@@ -13,6 +13,8 @@ TrailPulse: AI-Augmented Trail Access & Condition Engine 🏔️
 | **3. 50" Width Gate Match** | Instant `<16ms` client-side evaluation | Track-width evaluation against physical restrictor gate (BLM 1042) |
 | **4. Vehicle Tolerance Evaluation** | Ground clearance & rating matching | Evaluates vehicle build tolerances against trail technical requirements |
 
+[TrailPulse - Scenario1-Rockslide.webm](https://github.com/user-attachments/assets/2ccd0820-ecdc-40a4-ad0a-f306141af8e5)
+
 ---
 
 ## 🏛️ System Architecture
