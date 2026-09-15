@@ -14,6 +14,12 @@ TrailPulse: AI-Augmented Trail Access & Condition Engine 🏔️
 | **4. Vehicle Tolerance Evaluation** | Ground clearance & rating matching | Evaluates vehicle build tolerances against trail technical requirements |
 
 [TrailPulse - Scenario1-Rockslide.webm](https://github.com/user-attachments/assets/2ccd0820-ecdc-40a4-ad0a-f306141af8e5)
+[TrailPulse - Scenario2-Closure.webm](https://github.com/user-attachments/assets/41880ae2-ad7e-464d-a8b7-1ce887e5ff3d)
+[TrailPulse - Scenario3.webm](https://github.com/user-attachments/assets/3e090087-9200-464e-a329-e1dfb07e5104)
+[TrailPulse - Scenario4-ClearanceThresholds.webm](https://github.com/user-attachments/assets/28ddb214-b2aa-4c7e-a2a4-0cec9870a7a5)
+
+
+
 
 ---
 
