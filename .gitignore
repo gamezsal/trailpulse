@@ -1,0 +1,29 @@
+# Environment & Secrets (NEVER COMMIT)
+.env
+.env.local
+.env.*.local
+*.env
+
+# Python & Virtual Environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Node & Frontend
+node_modules/
+dist/
+build/
+.cache/
+.npm/
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
